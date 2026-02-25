@@ -67,14 +67,14 @@ const TermsOfService: React.FC = () => {
           <section>
             <h2 className="text-2xl font-bold text-black mb-4">7. Mandatory Arbitration and Class Action Waiver</h2>
             <p>
-              In the event that the Covenant Not to Sue in Section 6 is found to be unenforceable by a court of competent jurisdiction, you agree that any and all disputes arising out of or related to this Site shall be resolved exclusively through final and binding arbitration in Guilford County, NC, rather than in court. YOU EXPRESSLY WAIVE ANY RIGHT TO PARTICIPATE IN A CLASS ACTION LAWSUIT OR CLASS-WIDE ARBITRATION.
+              In the event that the Covenant Not to Sue in Section 6 is found to be unenforceable by a court of competent jurisdiction, you agree that any and all disputes arising out of or related to this Site shall be resolved exclusively through final and binding arbitration in Forsyth County, NC, rather than in court. YOU EXPRESSLY WAIVE ANY RIGHT TO PARTICIPATE IN A CLASS ACTION LAWSUIT OR CLASS-WIDE ARBITRATION.
             </p>
           </section>
 
           <section>
             <h2 className="text-2xl font-bold text-black mb-4">8. Governing Law</h2>
             <p>
-              These terms are governed by and construed in accordance with the laws of the State of North Carolina. You irrevocably submit to the exclusive jurisdiction of the courts in Guilford County, NC.
+              These terms are governed by and construed in accordance with the laws of the State of North Carolina. You irrevocably submit to the exclusive jurisdiction of the courts in Forsyth County, NC.
             </p>
           </section>
         </div>

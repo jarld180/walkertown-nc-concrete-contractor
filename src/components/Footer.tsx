@@ -43,11 +43,11 @@ const Footer: React.FC = () => {
           <div>
             <h4 className="font-bold text-lg mb-8 uppercase tracking-widest text-black">Service Areas</h4>
             <ul className="space-y-4">
-              <li><Link to="/high-point" className="text-black hover:text-black transition-colors font-medium">High Point, NC</Link></li>
               <li><Link to="/winston-salem" className="text-black hover:text-black transition-colors font-medium">Winston-Salem, NC</Link></li>
-              <li><Link to="/burlington" className="text-black hover:text-black transition-colors font-medium">Burlington, NC</Link></li>
               <li><Link to="/kernersville" className="text-black hover:text-black transition-colors font-medium">Kernersville, NC</Link></li>
-              <li><Link to="/jamestown" className="text-black hover:text-black transition-colors font-medium">Jamestown, NC</Link></li>
+              <li><Link to="/rural-hall" className="text-black hover:text-black transition-colors font-medium">Rural Hall, NC</Link></li>
+              <li><Link to="/stokesdale" className="text-black hover:text-black transition-colors font-medium">Stokesdale, NC</Link></li>
+              <li><Link to="/oak-ridge" className="text-black hover:text-black transition-colors font-medium">Oak Ridge, NC</Link></li>
             </ul>
           </div>
         </div>

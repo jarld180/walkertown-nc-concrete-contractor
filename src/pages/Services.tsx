@@ -104,7 +104,7 @@ const Services: React.FC = () => {
               <div key={service.slug} className="bg-white p-8 rounded-[40px] border border-gray-100 shadow-sm">
                 <h3 className="text-xl font-bold mb-6 text-black border-b border-gray-100 pb-4">{service.name} by City</h3>
                 <ul className="grid grid-cols-2 gap-4">
-                  {['High Point', 'Winston-Salem', 'Burlington', 'Kernersville', 'Jamestown'].map((city) => (
+                  {['Winston-Salem', 'Kernersville', 'Rural Hall', 'Stokesdale', 'Oak Ridge'].map((city) => (
                     <li key={city}>
                       <Link 
                         to={`/${city.toLowerCase().replace(' ', '-')}/${service.slug}`}

@@ -49,11 +49,11 @@ const Navbar: React.FC = () => {
       name: 'Locations',
       dropdown: [
         { name: 'Walkertown', path: '/' },
-        { name: 'High Point', path: '/high-point' },
         { name: 'Winston-Salem', path: '/winston-salem' },
-        { name: 'Burlington', path: '/burlington' },
         { name: 'Kernersville', path: '/kernersville' },
-        { name: 'Jamestown', path: '/jamestown' },
+        { name: 'Rural Hall', path: '/rural-hall' },
+        { name: 'Stokesdale', path: '/stokesdale' },
+        { name: 'Oak Ridge', path: '/oak-ridge' },
       ]
     }
   ];

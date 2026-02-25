@@ -127,7 +127,7 @@ const Home2: React.FC<HomeProps> = ({ cityName = "Walkertown" }) => {
         <div className="max-w-[1600px] mx-auto px-6 md:px-20 flex flex-col md:flex-row justify-between items-start gap-20">
           <h2 className="text-5xl font-light tracking-tight md:w-1/3">Regional <br/>Presence.</h2>
           <div className="md:w-2/3 grid grid-cols-1 sm:grid-cols-2 gap-x-20 gap-y-12">
-            {['High Point', 'Winston-Salem', 'Burlington', 'Kernersville', 'Jamestown'].map((city, i) => (
+            {['Winston-Salem', 'Kernersville', 'Rural Hall', 'Stokesdale', 'Oak Ridge'].map((city, i) => (
               <Link key={city} to={`/${city.toLowerCase().replace(' ', '-')}`} className="group flex items-start justify-between border-b border-gray-100 pb-8 overflow-hidden">
                 <div className="flex items-start gap-6">
                   <span className="text-[10px] font-bold text-black">0{i + 1}</span>
